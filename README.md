@@ -1,2 +1,2 @@
-# hw03_forms
-hw03_forms
+# Social network
+Учебный проект Django
